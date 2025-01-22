@@ -1,0 +1,16 @@
+{
+  "name": "making-your-first-api-and-page---practice-assignment-2",
+  "version": "1.0.0",
+  "description": "Practice-2\r Step 1: Access the Boilerplate code\r Review the project structure and code to understand the starting point for this assignment.\r Step 2: Understand the requirements",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
